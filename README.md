@@ -1,4 +1,4 @@
-# Interactive Scratch Card Animation 🎉
+# GPay's Scratch Card Animation 🎉
 
 This project simulates a scratch card effect using **HTML**, **CSS**, and **JavaScript**, similar to what you'd see in apps like Google Pay.
 As users move their cursor over the black overlay, parts of the hidden image beneath are revealed, creating an engaging and interactive experience.
